@@ -63,4 +63,4 @@ Please open an [Issue](https://github.com/Lab-Binary/declaw-desktop/issues) in t
 
 *Disclaimer: DeClaw is security software provided "as is". While we strive for perfection, no software is flawless. Always review critical outputs.*
 
-Copyright © 2026 Itova Labs. All rights reserved.
+Copyright © 2026 Lab Binary. All rights reserved. Lab Binary is a brand owned and operated by Itova Labs Private Limited.
