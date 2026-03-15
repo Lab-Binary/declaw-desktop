@@ -1,5 +1,5 @@
 # DeClaw: Secure Your Personal AI Assistants
-### By Itova Labs
+### By Lab Binary
 
 **Stop PII leaks. Deflect Direct or Indirect Prompt Injections. 100% Local Processing.**
 
@@ -35,7 +35,7 @@ Blocks malicious "Indirect Injections" hidden in websites or documents that try 
 
 **Steps:**
 1.  Get your Free License Key from [website](https://declaw.ai/#pricing)
-1.  **Download** the latest `.dmg` from the [Releases](https://github.com/Itova-Labs/declaw-desktop/releases) page.
+1.  **Download** the latest `.dmg` from the [Releases](https://github.com/Lab-Binary/declaw-desktop/releases) page.
 2.  Open the DMG and drag **DeClaw.app** to your **Applications** folder.
 3.  Launch DeClaw from Applications. Activate Declaw by giving your license key.
 4.  Follow the onboarding steps to install the local CA certificate (required for HTTPS inspection).
@@ -44,7 +44,7 @@ Blocks malicious "Indirect Injections" hidden in websites or documents that try 
 
 ## 🛡️ Privacy & Trust
 
-DeClaw is built by the team at **Itova Labs**.
+DeClaw is built by the team at **Lab Binary**.
 
 - **No Data Collection:** We do not collect your prompts, file contents, or screen data.
 - **Crash Reports:** Opt-in only. Traces to help us fix bugs.
@@ -57,7 +57,7 @@ View our full [Privacy Policy](https://declaw.ai/privacy) and [Terms of Service]
 ## 🐛 Support & Feedback
 
 Found a bug? Have a feature request?
-Please open an [Issue](https://github.com/Itova-Labs/declaw-desktop/issues) in this repository.
+Please open an [Issue](https://github.com/Lab-Binary/declaw-desktop/issues) in this repository.
 
 ---
 
